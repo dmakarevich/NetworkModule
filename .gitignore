@@ -1,0 +1,17 @@
+.DS_Store
+xcuserdata
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/README.md
+.idea
+Podfile
+Pods
+Podfile.lock
+UnreelApp
+RichNotificationsExtension
+UnreelApp.xcodeproj
+UnreelApp.xcworkspace
+frameworks
+
